@@ -13,4 +13,4 @@ Bu proje, sinema ile ilgili bilgileri yönetmek ve kullanıcılara film gösteri
 
 
 <h2>EKRAN GÖRÜNTÜSÜ</h2>
-![ekran.gif]
+![](ekran.gif)
